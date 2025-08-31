@@ -195,6 +195,7 @@ your plugin to the list.
 generate dependency lockfiles and check for changes at build time.
 - [sbt-unzip](https://github.com/djice/sbt-unzip-plugin): Extract zip dependencies where you want in your project.
 - [sbt-license-check](https://github.com/philippus/sbt-license-check): check and report on licenses used, fail build for disallowed licenses.
+- [sbt-jackson-version-check](https://github.com/philippus/sbt-jackson-version-check): check if the Jackson modules match, fail build if they don't.
 - [sbt-pekko-version-check](https://github.com/philippus/sbt-pekko-version-check): check if the Apache Pekko modules match, fail build if they don't.
 
 </div>
